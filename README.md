@@ -1,4 +1,10 @@
 # Classification-Mobile_Price_Range_Prediction
+
+
+![Classification](https://user-images.githubusercontent.com/52603382/230780102-db3a43b9-dc33-4555-adb1-0a56c702f0e4.jpg)
+
+
+
 Machine Learning Classification Model for predicting Mobile Price Range ( low cost, medium cost,  high cost, very high cost)
 
 Hey there! In this project, we will be working on predicting the price range of mobile phones based on their features. We will be using machine learning algorithms to build a model that can accurately classify mobile phones into one of four price ranges: low-cost, mid-range, high-range, and very high-range.
@@ -8,3 +14,4 @@ The dataset that we will be using contains information about various mobile phon
 To complete this project, we will need to preprocess the data by cleaning and features engineering, and then splitting it into training and test sets. We can use a variety of machine learning algorithms such as logistic regression, decision trees, or random forests to build the prediction model.
 
 Once we have built and trained the model, we can use it to predict the price range of new mobile phones based on their features. We can also interpret the results of the model to identify the most important features that are influencing mobile phone prices.
+
